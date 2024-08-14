@@ -1,0 +1,43 @@
+@media screen and (max-width: 800px) {
+    body{
+        /* width: 100%;
+        overflow-x: hidden;
+        box-sizing: border-box; */
+   
+    }
+    #head1{
+        position: absolute;
+        height: 6vh;
+        width: 70%;
+    }
+    .logo{
+        position: relative;
+        height:4vh;
+        right: 52%;
+        border-radius: 5px;
+        
+    }
+    #head{
+        position: relative;
+        height:4vh;
+        right: 105%;
+        bottom: 45px;
+        font-size: small;
+        border: none;
+    }
+    .iconbox{
+        position: relative;
+        right: 38%;
+        top: 70%;
+    }
+    .hunt{
+        position: relative;
+        right: 38%;
+        font-size: medium;
+        top: 80%;
+
+    }
+
+
+
+  }
